@@ -1,5 +1,11 @@
 # @willry/react
 
+## 2.0.2
+
+### Patch Changes
+
+- Novos componentes para toast e tooltip
+
 ## 2.0.1
 
 ### Patch Changes
