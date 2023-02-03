@@ -12,8 +12,8 @@ export default {
   },
 } as Meta<ToastProps>
 
-export const Primary = () => {
-  const [{ title, description }, updateArgs] = useArgs()
+export const Primary = (args: ToastProps) => {
+  const [_, updateArgs] = useArgs()
   const handleOpen = (status: boolean) => {
     updateArgs({ open: status })
   }
@@ -22,11 +22,7 @@ export const Primary = () => {
     <Box>
       <ToastProvider>
         <Button onClick={() => handleOpen(true)}>Abrir</Button>
-        <Toast
-          title={title}
-          description={description}
-          onOpenChange={handleOpen}
-        />
+        <Toast {...args} onOpenChange={handleOpen} />
       </ToastProvider>
     </Box>
   )
