@@ -1,0 +1,2 @@
+import{g as o,a as t}from"./index.42ec0a29.js";import{j as r}from"./jsx-runtime.05841d8d.js";import"./index.e4822ec8.js";import"./iframe.0a93fffe.js";import"./index.75515ce5.js";const l={title:"Feedback/Tooltip",component:o,args:{content:"Um tooltip qualquer",children:r(t,{children:"Send"})},argTypes:{children:{control:{type:null}}}},s={},m=["Primary"];export{s as Primary,m as __namedExportsOrder,l as default};
+//# sourceMappingURL=Tooltip.stories.eb2b9f80.js.map

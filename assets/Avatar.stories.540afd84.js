@@ -1,0 +1,2 @@
+import{A as t}from"./index.42ec0a29.js";import"./index.e4822ec8.js";import"./iframe.0a93fffe.js";import"./index.75515ce5.js";import"./jsx-runtime.05841d8d.js";const l={title:"Data display/Avatar",component:t,args:{src:"https://github.com/willry.png",alt:"Willry"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,c as WithFallback,m as __namedExportsOrder,l as default};
+//# sourceMappingURL=Avatar.stories.540afd84.js.map
