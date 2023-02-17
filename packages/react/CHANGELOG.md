@@ -1,5 +1,11 @@
 # @willry/react
 
+## 2.0.3
+
+### Patch Changes
+
+- Add option to pass reference to TextInput and adjuste some styles
+
 ## 2.0.2
 
 ### Patch Changes

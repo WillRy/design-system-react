@@ -1,5 +1,11 @@
 # @willry/tokens
 
+## 1.1.2
+
+### Patch Changes
+
+- Add option to pass reference to TextInput and adjuste some styles
+
 ## 1.1.1
 
 ### Patch Changes
